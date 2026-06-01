@@ -1,6 +1,6 @@
 ---
 website: "Agência de Gestão da Tesouraria e da Dívida Pública IGCP"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "01/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.igcp.pt/pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.igcp.pt/pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Agência de Gestão da Tesouraria e da Dívida Pública - IGCP E.P.E."         # Entre as aspas escrever o nome do owner do website
